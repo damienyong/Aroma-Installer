@@ -1,4 +1,13 @@
-Aroma-Installer
-===============
+Huawei Ascent P6 Aroma Installer
+=============================
 
-Aroma-Installer-Ascend-P6-testing
+
+Source:
+
+http://d-h.st/Uh0
+
+
+
+This isn't a final build!
+It's only for testing!
+DO NOT FLASH THIS UNTIL ITS READY !!!
